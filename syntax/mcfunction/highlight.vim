@@ -2,7 +2,7 @@ hi def link mcError             Error
 hi def link mcChatMessage       String
 hi def link mcComment           Comment
 
-hi mcCommand            ctermfg=white ctermbg=Darkgrey        cterm=bold
+hi mcCommand            ctermfg=red        cterm=bold
 hi mcOp                 ctermfg=grey
 hi mcSelector           ctermfg=lightgreen           cterm=bold
 
