@@ -49,7 +49,7 @@ endif
 " Top level execute keywords
 "execute as @a positioned as @s store entity @s Health byte 1 run kill @s
 "        ^^    ^^^^^^^^^^       ^^^^^                         ^^^
-hi mcExecuteKeyword ctermfg=orange cterm=bold
+hi mcExecuteKeyword ctermfg=yellow cterm=bold
 
 
 " @e[type=zombie]   grass_block[snowy=true]
