@@ -2,7 +2,7 @@ hi def link mcError             Error
 hi def link mcChatMessage       String
 hi def link mcComment           Comment
 
-hi mcCommand            ctermfg=#fe8019        cterm=bold
+hi mcCommand            ctermfg="#fe8019"        cterm=bold
 hi mcOp                 ctermfg=grey
 hi mcSelector           ctermfg=lightgreen           cterm=bold
 
@@ -49,7 +49,7 @@ endif
 " Top level execute keywords
 "execute as @a positioned as @s store entity @s Health byte 1 run kill @s
 "        ^^    ^^^^^^^^^^       ^^^^^                         ^^^
-hi mcExecuteKeyword ctermfg=#d65d0e cterm=bold
+hi mcExecuteKeyword ctermfg="#d65d0e" cterm=bold
 
 
 " @e[type=zombie]   grass_block[snowy=true]
