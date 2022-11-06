@@ -1,4 +1,5 @@
 # vim-mcfunction
+## I just changed some colors that i didnt like, all credit to original creator!
 A powerful syntax highlighter for mcfunction (the format for Minecraft datapack functions) in vim.
 Instead of simply highlighting a few keywords, it aims to tell you exactly how the game will interpret the commands in order to greatly reduce development time.
 
